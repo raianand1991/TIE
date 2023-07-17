@@ -1,6 +1,6 @@
 # TIE Dataset
 
-This repository contains the curated dataset sourced from NPTEL website(https://nptel.ac.in/) of audio files, along with their corresponding metadata and transcripts. The dataset can 
+This repository contains the curated massive speech dataset of 8740 hours consisting of ~9.8K technical lectures in the English language along with their transcripts delivered by instructors representing various parts of Indian demography , sourced from NPTEL website(https://nptel.ac.in/) of audio files, along with their corresponding metadata and transcripts. The dataset can 
 be accessed through the Google Drive Link: https://drive.google.com/drive/folders/1k-S61-acXxLyV8jIx-yoGfCTqDzz99EW?usp=sharing
 
 ## Folder Structure
@@ -16,7 +16,7 @@ be accessed through the Google Drive Link: https://drive.google.com/drive/folder
 
 ## Usage
 
-- To use this dataset, download or clone the repository.
+- To use this dataset, download the dataset from Google Drive using the above specified link. As the audio dataset 
 
 - The `Final_Dataset.csv` file provides metadata for each audio in the dataset.
 

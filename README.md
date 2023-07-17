@@ -1,7 +1,6 @@
 # TIE Dataset
 
-This repository contains the curated massive speech dataset(~ 750 GB) being named as TIE(Technical Indian English), is of 8740 hours consisting of ~9.8K technical lectures in the English language along with their transcripts delivered by instructors representing various parts of Indian demography , sourced from NPTEL website(https://nptel.ac.in/). The dataset can 
-be accessed through the Google Drive Link: https://drive.google.com/drive/folders/1k-S61-acXxLyV8jIx-yoGfCTqDzz99EW?usp=sharing
+The TIE(Technical Indian English) dataset is a massive speech dataset of ~750 GB, consisting of ~9.8K technical lectures in English, along with their transcripts. The lectures were delivered by instructors from all over India and were sourced from the NPTEL website. The dataset can be accessed through the Google Drive link: https://drive.google.com/drive/folders/1k-S61-acXxLyV8jIx-yoGfCTqDzz99EW?usp=sharing
 
 ## Folder Structure
 

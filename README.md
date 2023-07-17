@@ -34,7 +34,7 @@ If you use this dataset in your research or projects, please cite this repositor
 
 ## Contact
 
-For any inquiries, feedback, or collaboration opportunities, please contact [your-email@example.com].
+For any inquiries, feedback, or collaboration opportunities, please contact [raianand.1991@gmail.com].
 
 ---
 

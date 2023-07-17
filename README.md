@@ -1,6 +1,7 @@
 # TIE Dataset
 
-This repository contains the curated dataset sourced from NPTEL website(https://nptel.ac.in/) of audio files, along with their corresponding metadata and transcripts.
+This repository contains the curated dataset sourced from NPTEL website(https://nptel.ac.in/) of audio files, along with their corresponding metadata and transcripts. The dataset can 
+be accessed through the Google Drive Link: https://drive.google.com/drive/folders/1k-S61-acXxLyV8jIx-yoGfCTqDzz99EW?usp=sharing
 
 ## Folder Structure
 

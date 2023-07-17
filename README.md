@@ -16,7 +16,7 @@ be accessed through the Google Drive Link: https://drive.google.com/drive/folder
 
 ## Usage
 
-- To use this dataset, download the dataset from Google Drive using the above specified link. As the audio dataset 
+- To access and utilize this dataset, you can download it from Google Drive using the provided link. As the audio dataset is substantial in size, you have the option to download only a subset of audios by using the script download_video.py. This way, you can manage the data more efficiently and select specific portions of the dataset that align with your research or project needs. 
 
 - The `Final_Dataset.csv` file provides metadata for each audio in the dataset.
 

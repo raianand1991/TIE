@@ -29,7 +29,12 @@ Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)
 
 If you use this dataset in your research or projects, please cite this repository as follows:
 
-[Provide citation information]
+@article{rai2023deep,
+  title={A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos},
+  author={Rai, Anand Kumar and Jaiswal, Siddharth D and Mukherjee, Animesh},
+  journal={arXiv preprint arXiv:2307.10587},
+  year={2023}
+}
 
 ## Contact
 

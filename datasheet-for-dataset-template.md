@@ -72,7 +72,7 @@ The provided information doesn't explicitly mention a label or target associated
 
 ### Are relationships between individual instances made explicit (e.g., users’ movie ratings, social network links)?
 
-_If so, please describe how these relationships are made explicit._
+Each instance represent an individual technical lecture delivered by a speaker, with associated metadata and annotations and no explicit relationships have been mentioned in the dataset.
 
 ### Are there recommended data splits (e.g., training, development/validation, testing)?
 

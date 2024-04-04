@@ -46,6 +46,8 @@ The instances within the dataset represent technical lecture videos, encompassin
 
 ### How many instances are there in total (of each type, if appropriate)?
 
+[Detailed Dataset Statistics](https://github.com/raianand1991/TIE/blob/main/Screenshot%202024-04-04%20145352.png)
+
 ### Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?
 
 _If the dataset is a sample, then what is the larger set? Is the sample representative

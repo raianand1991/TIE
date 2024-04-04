@@ -42,8 +42,7 @@ comparable regulations in other jurisdictions._
 
 ### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
-_Are there multiple types of instances (e.g., movies, users, and ratings; people and
-interactions between them; nodes and edges)? Please provide a description._
+The instances within the dataset represent technical lecture videos, encompassing 8740 hours of speech delivered by 332 Indian speakers across more than 20 varied lecture topics. Each video file has been enriched with annotations detailing demographic attributes such as teaching experience, gender, caste, and native region of the respective speaker, as well as audio metadata including speech rate, discipline, and lecture topic.The dataset also contains transcripts generated from YouTube and Whisper ASR for those lecture videos.
 
 ### How many instances are there in total (of each type, if appropriate)?
 

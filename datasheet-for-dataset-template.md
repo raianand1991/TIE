@@ -76,7 +76,7 @@ Each instance represent an individual technical lecture delivered by a speaker, 
 
 ### Are there recommended data splits (e.g., training, development/validation, testing)?
 
-_If so, please provide a description of these splits, explaining the rationale behind them._
+No
 
 ### Are there any errors, sources of noise, or redundancies in the dataset?
 

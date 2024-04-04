@@ -28,8 +28,7 @@ The videos of dataset has been sourced from [NPTEL channel of YouTube](https://w
 
 ### Who funded the creation of the dataset? 
 
-_If there is an associated grant, please provide the name of the grantor and the grant
-name and number._
+The creation of the dataset was not financially supported by any external funding.
 
 ### Any other comments?
 

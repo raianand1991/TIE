@@ -23,6 +23,8 @@ about funding interests._
 The dataset was created to address the scarcity of technical domain data within the Indian context for the purpose of auditing and mitigating bias in State-of-the-Art Automatic Speech Recognition (ASR) systems.
 
 ### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
+The videos of dataset has been sourced from NPTEL channel of YouTube(https://www.youtube.com/nptelhrd) and annoated and curated by team of researchers (Anand Kumar Rai, Siddharth D Jaiswal) under supervision of Prof. Animesh Mukherjee at IIT Kharagpur.
+
 
 ### Who funded the creation of the dataset? 
 

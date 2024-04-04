@@ -54,8 +54,13 @@ The dataset represents a sample of instances rather than encompassing all possib
 
 ### What data does each instance consist of? 
 
-_“Raw” data (e.g., unprocessed text or images) or features? In either case, please
-provide a description._
+Each instance within the dataset consists of a technical lecture video delivered by an Indian speaker. Specifically, the data for each instance includes:
+
+    -Speech Content: The main content of the lecture delivered by the speaker.
+    -Speaker Information: Demographic attributes such as gender, teaching experience, caste, native region, and any other relevant information about the speaker.
+    -Audio Metadata: Information pertaining to the audio characteristics of the lecture, such as speech rate.
+    -Lecture Metadata: Details regarding the discipline and topic of the lecture.
+    -ASR Generated Transcripts: Transcripts corresponding to each lecture transcribed by YouTube ASR and OpenAI Whisper
 
 ### Is there a label or target associated with each instance?
 

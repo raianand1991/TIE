@@ -68,9 +68,7 @@ The provided information doesn't explicitly mention a label or target associated
 
 ### Is any information missing from individual instances?
 
-_If so, please provide a description, explaining why this information is missing (e.g.,
-because it was unavailable). This does not include intentionally removed information,
-but might include, e.g., redacted text._
+ The  TIE dataset includes comprehensive information for each individual instance.
 
 ### Are relationships between individual instances made explicit (e.g., users’ movie ratings, social network links)?
 

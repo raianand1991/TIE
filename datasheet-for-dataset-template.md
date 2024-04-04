@@ -88,20 +88,19 @@ The dataset relies on external resources as the videos comprising the dataset ha
 
 ### Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals’ non-public communications)?
 
-_If so, please provide a description._
+No, the videos have been sourced from YouTube which are publicly availabe and the speaker identity information has been anonymized in the annotated dataset.
 
 ### Does the dataset contain data that, if viewed directly, might be offensive, insulting, threatening, or might otherwise cause anxiety?
 
-_If so, please describe why._
+No
 
 ### Does the dataset relate to people? 
 
-_If not, you may skip the remaining questions in this section._
+Yes, the dataset relates to people as it consists of technical lecture videos delivered by 332 Indian speakers. These speakers are individuals who deliver lectures on various topics covered in the dataset. Additionally, demographic attributes such as gender, caste, teaching experience, and native region are annotated for each speaker, further establishing the relationship between the dataset and individuals. Therefore, the dataset involves people in the context of delivering lectures and associated demographic information.
 
 ### Does the dataset identify any subpopulations (e.g., by age, gender)?
 
-_If so, please describe how these subpopulations are identified and provide a description of
-their respective distributions within the dataset._
+Yes, the dataset identifies subpopulations based on various demographic attributes. Specifically, it annotates demographic information such as gender, teaching experience, caste, and native region for each speaker. This allows for the identification of subpopulations within the dataset based on these attributes
 
 ### Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?
 

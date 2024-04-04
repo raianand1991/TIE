@@ -50,11 +50,7 @@ The instances within the dataset represent technical lecture videos, encompassin
 
 ### Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?
 
-_If the dataset is a sample, then what is the larger set? Is the sample representative
-of the larger set (e.g., geographic coverage)? If so, please describe how this
-representativeness was validated/verified. If it is not representative of the larger set,
-please describe why not (e.g., to cover a more diverse range of instances, because
-instances were withheld or unavailable)._
+The dataset represents a sample of instances rather than encompassing all possible instances. The sample is not necessarily random but is rather curated to reflect certain demographics and characteristics, particularly those observed in higher educational institutes in India. Notably, there is a significant skew towards male speakers (approximately 95%) and those belonging to the unreserved caste category (approximately 73%), which mirrors the distribution observed in Indian higher education institutions. Additionally, there are insights into the representation of females in teaching positions and the distribution of lecturers belonging to reserved caste categories. The dataset also reflects the distribution of speakers based on teaching experience and native regions, with certain regions being underrepresented. Furthermore, annotations such as speech rate and discipline are provided for each lecture, which may result in an overlap of speakers across subcategories within the dataset.
 
 ### What data does each instance consist of? 
 

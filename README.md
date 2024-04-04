@@ -25,6 +25,11 @@ The TIE(Technical Indian English) dataset is a massive speech dataset of ~750 GB
 
 Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) 
 
+
+## Datasheet
+
+The detailed datasheet based on [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper is available [here](https://github.com/raianand1991/TIE/blob/main/datasheet-for-dataset-template.md)
+
 ## Attribution
 
 If you use this dataset in your research or projects, please cite this repository as follows:

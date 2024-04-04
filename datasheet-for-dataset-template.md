@@ -20,8 +20,7 @@ about funding interests._
 
 ### For what purpose was the dataset created? 
 
-_Was there a specific task in mind? Was there a specific gap that needed to be filled?
-Please provide a description._
+The dataset was created to address the scarcity of technical domain data within the Indian context for the purpose of auditing and mitigating bias in State-of-the-Art Automatic Speech Recognition (ASR) systems.
 
 ### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
 

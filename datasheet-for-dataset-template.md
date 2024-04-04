@@ -84,13 +84,7 @@ Firstly, the accuracy of manual transcripts may be compromised by human error du
 
 ### Is the dataset self-contained, or does it link to or otherwise rely on external resources (e.g., websites, tweets, other datasets)?
 
-_If it links to or relies on external resources, a) are there guarantees that they will
-exist, and remain constant, over time; b) are there official archival versions of the
-complete dataset (i.e., including the external resources as they existed at the time the
-dataset was created); c) are there any restrictions (e.g., licenses, fees) associated with
-any of the external resources that might apply to a future user? Please provide descriptions
-of all external resources and any restrictions associated with them, as well as links or other
-access points, as appropriate._
+The dataset relies on external resources as the videos comprising the dataset have been sourced from the NPTEL channel on YouTube. This implies that the dataset is not entirely self-contained but is instead dependent on the availability and accessibility of the NPTEL channel's content on YouTube. Consequently, any changes, updates, or removals of videos from the NPTEL channel may directly impact the dataset's content and availability. Therefore, users should consider this dependency when utilizing the dataset for analysis or research purposes.
 
 ### Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals’ non-public communications)?
 

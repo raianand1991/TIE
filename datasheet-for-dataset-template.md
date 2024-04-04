@@ -80,7 +80,7 @@ No
 
 ### Are there any errors, sources of noise, or redundancies in the dataset?
 
-_If so, please provide a description._
+Firstly, the accuracy of manual transcripts may be compromised by human error during transcription. Additionally, self-annotated labels, such as gender and caste, pose challenges as they are not publicly available, making their determination difficult. Moreover, automatic identification of these attributes from names may introduce potential inaccuracies. Furthermore, the formal speech style and use of technical jargon in the videos may impact the performance of Automatic Speech Recognition (ASR) systems. Lectures involving live mathematical derivations or problem-solving, as opposed to those delivered using slides, may also influence ASR performance. Additionally, the non-deterministic outputs of ASR model components may lead to varying transcripts for the same video, further complicating analysis.
 
 ### Is the dataset self-contained, or does it link to or otherwise rely on external resources (e.g., websites, tweets, other datasets)?
 

@@ -193,7 +193,7 @@ Yes, the ground-truth and ASR generated transcripts on which audit was conducted
 
 ### Is the software used to preprocess/clean/label the instances available?
 
-_If so, please provide a link or other access point._
+The script used for downloading video from YouTube extracting mp3 and ground-truth transcript is [available](https://github.com/raianand1991/TIE/)
 
 ### Any other comments?
 

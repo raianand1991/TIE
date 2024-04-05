@@ -119,10 +119,7 @@ reconstruct the dataset without access to it._
 
 ### How was the data associated with each instance acquired?
 
-_Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g.,
-survey responses), or indirectly inferred/derived from other data (e.g., part-of-speech tags,
-model-based guesses for age or language)? If data was reported by subjects or indirectly
-inferred/derived from other data, was the data validated/verified? If so, please describe how._
+The data associated with each instance, which comprises technical lecture videos delivered by Indian speakers along with demographic attributes and metadata, have been acquired from the NPTEL (National Programme on Technology Enhanced Learning) channel on YouTube. Additionally, demographic attributes such as gender, teaching experience, caste, and native region may have been collected through manual annotation or self-reporting by the speakers themselves. The acquisition process involved a combination of data collection from publicly available sources and manual annotation to enrich the dataset with relevant metadata.
 
 ### What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?
 

@@ -136,9 +136,7 @@ The videos of dataset has been sourced from [NPTEL channel of YouTube](https://w
 
 ### Over what timeframe was the data collected?
 
-_Does this timeframe match the creation timeframe of the data associated with the instances (e.g.
-recent crawl of old news articles)? If not, please describe the timeframe in which the data
-associated with the instances was created._
+The creation timeframe for the data associated with the instances in the dataset involved approximately 5 months. This timeframe encompassed several tasks, including scraping video metadata from the NPTEL website, transcribing the videos using YouTube and Whisper ASR, and annotating attributes corresponding to speakers.
 
 ### Were any ethical review processes conducted (e.g., by an institutional review board)?
 

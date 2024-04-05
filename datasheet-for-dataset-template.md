@@ -108,7 +108,7 @@ The dataset does not allow for the direct identification of individuals. The dat
 
 ### Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?
 
-_If so, please provide a description._
+No
 
 ### Any other comments?
 

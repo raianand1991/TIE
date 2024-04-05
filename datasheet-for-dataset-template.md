@@ -140,12 +140,11 @@ The creation timeframe for the data associated with the instances in the dataset
 
 ### Were any ethical review processes conducted (e.g., by an institutional review board)?
 
-_If so, please provide a description of these review processes, including the outcomes, as well as
-a link or other access point to any supporting documentation._
+No
 
 ### Does the dataset relate to people?
 
-_If not, you may skip the remainder of the questions in this section._
+Yes, the dataset relates to people as it consists of technical lecture videos delivered by Indian speakers. These speakers are individuals who deliver lectures on various topics covered in the dataset. Additionally, demographic attributes such as gender, teaching experience, caste, and native region are annotated for each speaker, further establishing the relationship between the dataset and individuals. Therefore, the dataset involves people in the context of delivering lectures and associated demographic information.
 
 ### Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?
 

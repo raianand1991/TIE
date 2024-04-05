@@ -148,27 +148,23 @@ Yes, the dataset relates to people as it consists of technical lecture videos de
 
 ### Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?
 
+The demographic attributes and other metadata were manually annotated, with assistance from information available on academic institutions' websites or other publicly accessible sources.
+
 ### Were the individuals in question notified about the data collection?
 
-_If so, please describe (or show with screenshots or other information) how notice was provided,
-and provide a link or other access point to, or otherwise reproduce, the exact language of the
-notification itself._
+No, since the data was sourced from individual lectures publicly available on YouTube and their metadata on publicly accessible sources.
 
 ### Did the individuals in question consent to the collection and use of their data?
 
-_If so, please describe (or show with screenshots or other information) how consent was
-requested and provided, and provide a link or other access point to, or otherwise reproduce, the
-exact language to which the individuals consented._
+NA
 
 ### If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?
 
-_If so, please provide a description, as well as a link or other access point to the mechanism
-(if appropriate)._
+NA
 
 ### Has an analysis of the potential impact of the dataset and its use on data subjects (e.g., a data protection impact analysis) been conducted?
 
-_If so, please provide a description of this analysis, including the outcomes, as well as a link
-or other access point to any supporting documentation._
+NA
 
 ### Any other comments?
 

@@ -131,6 +131,9 @@ The dataset is sample of larger set of videos as mentioned in previous answer. T
 
 ### Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?
 
+The videos of dataset has been sourced from [NPTEL channel of YouTube](https://www.youtube.com/nptelhrd) and annotated and curated by team of researchers ([Anand Kumar Rai](https://raianand1991.github.io/), [Siddharth D Jaiswal](https://sidd0602.github.io/) under supervision of Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) at IIT Kharagpur.
+
+
 ### Over what timeframe was the data collected?
 
 _Does this timeframe match the creation timeframe of the data associated with the instances (e.g.

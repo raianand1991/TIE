@@ -177,8 +177,15 @@ not suitable for tasks involving word order._
 
 ### Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?
 
-_If so, please provide a description. If not, you may skip the remainder of the questions in
-this section._
+Yes, preprocessing, cleaning, and labeling of the data were conducted as part of the dataset creation process. The prepocessing and labelling steps includes the following:
+
+   - Scraping video metadata from the NPTEL website: This likely involved extracting relevant information such as course names, disciplines, instructors, and weblinks.
+
+   - Transcribing the videos using YouTube and Whisper ASR: This process converts the spoken content of the lecture videos into textual transcripts.
+
+   - Annotating attributes corresponding to speakers: Demographic attributes such as gender, teaching experience, caste, and native region were manually annotated for each speaker.
+
+These steps involve various forms of preprocessing and cleaning, such as extracting metadata, transcribing audio content, and annotating demographic attributes. Additionally, any missing values or inconsistencies in the data may have been addressed during these preprocessing stages to ensure the quality and completeness of the dataset.
 
 ### Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?
 

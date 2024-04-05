@@ -104,7 +104,7 @@ Yes, the dataset identifies subpopulations based on various demographic attribut
 
 ### Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?
 
-_If so, please describe how._
+The dataset does not allow for the direct identification of individuals. The dataset consists of technical lecture videos delivered by multiple speakers, with demographic attributes such as gender, teaching experience, caste, and native region annotated for each speaker. While this information provides insight into the characteristics of the speakers, it may not be sufficient on its own to directly identify individuals. However, indirect identification of individuals could potentially occur if the dataset is combined with other external data sources like personal websites of lecturers.
 
 ### Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?
 

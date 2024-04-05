@@ -189,7 +189,7 @@ These steps involve various forms of preprocessing and cleaning, such as extract
 
 ### Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?
 
-_If so, please provide a link or other access point to the “raw” data._
+Yes, the ground-truth and ASR generated transcripts on which audit was conducted is [available](https://github.com/raianand1991/TIE) for any other unanticipated usage.
 
 ### Is the software used to preprocess/clean/label the instances available?
 

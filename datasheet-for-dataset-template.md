@@ -234,27 +234,23 @@ Yes, the dataset has been made publicly [available](https://github.com/raianand1
 
 ### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 
-_Does the dataset have a digital object identifier (DOI)?_
+The dataset link is [available](https://github.com/raianand1991/TIE/)
 
 ### When will the dataset be distributed?
 
+The dataset is already available
+
 ### Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?
 
-_If so, please describe this license and/or ToU, and provide a link or other access point to,
-or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated
-with these restrictions._
+The dataset is distributed under license Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0).
 
 ### Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
 
-_If so, please describe these restrictions, and provide a link or other access point to, or
-otherwise reproduce, any relevant licensing terms, as well as any fees associated with these
-restrictions._
+No
 
 ### Do any export controls or other regulatory restrictions apply to the dataset or to individual instances?
 
-_If so, please describe these restrictions, and provide a link or other access point to, or otherwise
-reproduce, any supporting documentation._
-
+No
 ### Any other comments?
 
 ## Maintenance

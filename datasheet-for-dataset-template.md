@@ -230,7 +230,7 @@ _If so, please provide a description._
 
 ### Will the dataset be distributed to third parties outside of the entity (e.g., company, institution, organization) on behalf of which the dataset was created? 
 
-_If so, please provide a description._
+Yes, the dataset has been made publicly [available](https://github.com/raianand1991/TIE/)
 
 ### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 

@@ -260,28 +260,30 @@ and communicate this plan with dataset consumers._
 
 ### Who is supporting/hosting/maintaining the dataset?
 
+[Anand Kumar Rai](https://raianand1991.github.io/) is one of the researchers involved in the creation of the dataset.
+
 ### How can the owner/curator/manager of the dataset be contacted (e.g., email address)?
+
+For any inquiries , feedback, or collaboration on the dataset, please contact [raianand.1991@gmail.com].
 
 ### Is there an erratum?
 
-_If so, please provide a link or other access point._
+No
 
 ### Will the dataset be updated (e.g., to correct labeling errors, add new instances, delete instances)?
 
-_If so, please describe how often, by whom, and how updates will be communicated to users (e.g., mailing list, GitHub)?_
+If necessary, updates will be communicated through the dataset's GitHub repository and via email to the mailing list of dataset users.
 
 ### If the dataset relates to people, are there applicable limits on the retention of the data associated with the instances (e.g., were individuals in question told that their data would be retained for a fixed period of time and then deleted)?
 
-_If so, please describe these limits and explain how they will be enforced._
+No
 
 ### Will older versions of the dataset continue to be supported/hosted/maintained?
 
-_If so, please describe how. If not, please describe how its obsolescence will be communicated to users._
+Yes
 
 ### If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?
 
-_If so, please provide a description. Will these contributions be validated/verified? If so,
-please describe how. If not, why not? Is there a process for communicating/distributing these
-contributions to other users? If so, please provide a description._
+For any inquiries on collaboration on the dataset, please contact [raianand.1991@gmail.com].
 
 ### Any other comments?

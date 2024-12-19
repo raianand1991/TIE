@@ -2,7 +2,7 @@
 
 The TIE(Technical Indian English) dataset is a massive speech dataset of ~750 GB, consisting of ~9.8K technical lectures in English, along with their transcripts. The lectures were delivered by instructors from all over India and were sourced from the NPTEL website. The dataset can be requested here:[https://forms.gle/k4A6kW8gRZ7qJiJB9]. 
 
-The shorter version of TIE audio files along with aligned ground-truth transcripts is also available at <a href="https://huggingface.co/datasets/raianand/TIE_shorts" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height: 20px; margin-left: 5px; vertical-align: middle;"></a>.
+The shorter version of TIE audio files (~ 30s) along with aligned ground-truth transcripts is also available at <a href="https://huggingface.co/datasets/raianand/TIE_shorts" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height: 20px; margin-left: 5px; vertical-align: middle;"></a>.
 
 
 

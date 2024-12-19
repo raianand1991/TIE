@@ -38,12 +38,15 @@ The detailed datasheet based on [Datasheets for Datasets](https://arxiv.org/abs/
 
 If you use this dataset in your research or projects, please cite this repository as follows:
 
-@article{rai2023deep,
-  title={A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos},
-  author={Rai, Anand Kumar and Jaiswal, Siddharth D and Mukherjee, Animesh},
-  journal={arXiv preprint arXiv:2307.10587},
-  year={2023}
+@inproceedings{rai2024deep,  
+  title={A Deep Dive into the Disparity of Word Error Rates across Thousands of NPTEL MOOC Videos},  
+  author={Rai, Anand Kumar and Jaiswal, Siddharth D and Mukherjee, Animesh},  
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},  
+  volume={18},  
+  pages={1302--1314},  
+  year={2024}  
 }
+
 
 ## Contact
 
